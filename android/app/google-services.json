@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136214551449",
+    "project_id": "filelocator-335b9",
+    "storage_bucket": "filelocator-335b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136214551449:android:de34cc6cb7d7e1412a1108",
+        "android_client_info": {
+          "package_name": "com.example.file_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkn5Qa_s0YgWBOoI3IxKzQUDWZR9txFq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
